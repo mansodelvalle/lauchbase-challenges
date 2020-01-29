@@ -1,5 +1,5 @@
 /* ============================================
-    DESAFIO 2 - Cálculo de aposentadoria
+        DESAFIO 2 - Cálculo de aposentadoria
    ============================================ */
 
    const nome = 'Silvana'

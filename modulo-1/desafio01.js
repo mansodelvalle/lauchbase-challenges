@@ -1,5 +1,5 @@
 /* ============================================
-    DESAFIO 1 - PROGRAMA PARA CALCULAR O IMC E NÍVEL DE OBESIDADE DE UMA PESSOA
+    DESAFIO 1 - PROGRAMA PARA CALCULAR O IMC E NÍVEL DE OBESIDADE DE UMA PESSOA 
    ============================================ */
 
 const nome = 'Marcos'

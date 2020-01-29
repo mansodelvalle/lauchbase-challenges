@@ -1,6 +1,6 @@
 
 /* ============================================
-    DESAFIO 3 - CRIAR UM PROGRAMA QUE RETORNA A LISTA DE USUÁRIOS DE UM ARRAY E AS TECNOLOGIAS ESPECIALIZADAS DE CADA USUÁRIO
+        DESAFIO 3 - CRIAR UM PROGRAMA QUE RETORNA A LISTA DE USUÁRIOS DE UM ARRAY E AS TECNOLOGIAS ESPECIALIZADAS DE CADA USUÁRIO
    ============================================ */
 
 const usuarios = [
