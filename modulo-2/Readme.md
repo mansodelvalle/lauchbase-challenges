@@ -24,7 +24,7 @@
 
 
 <p align="center">
-    <img src="https://i.imgur.com/cVhbRmU.png" alt="Imagem do desafio finalizado">
+    <img src="https://i.imgur.com/iJd87yL.png" alt="Imagem do desafio finalizado">
 </p>
 
 
